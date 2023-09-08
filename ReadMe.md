@@ -3,24 +3,24 @@ Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer t
 
 [MixMods](https://mixmods.br/)
 [Ugbase](https://ugbase.eu/)
-[GTA Forums](https://gtaforums .com/)
+[GTAForums](https://gtaforums .com/)
 
 
 /////=Cleo Plugin=/////
-        - [x] Cleo 4.4.4
-        - [x] anticrasher037
-	- [x] binthesky_by_DK
-	- [x] CLEO+
-	- [x] Enhance ParticleTXD (Junior_Djjr)
-	- [x] FPSUnlock
-	- [x] NoMoreHaze
-	- [x] particles
-	- [x] PerPixelLighting
-	- [x] Transparent Menu
+- [x] Cleo 4.4.4
+- [x] anticrasher037
+- [x] binthesky_by_DK
+- [x] CLEO+
+- [x] Enhance ParticleTXD (Junior_Djjr)
+- [x] FPSUnlock
+- [x] NoMoreHaze
+- [x] particles
+- [x] PerPixelLighting
+- [x] Transparent Menu
 
 /////=ASI Plugin=/////
-        - [x] Cleo 4.4.4
-        - [x] Audio
+    - [x] Cleo 4.4.4
+    - [x] Audio
 	- [x] DiscordRichPresence
 	- [x] flickr
 	- [x] GFXFix
@@ -36,8 +36,8 @@ Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer t
 	- [x] SA-MultiSamplingFix
 	- [x] SilentPatchSA
 	- [x] ASI Loader
-        - [x] Menupatch
+    - [x] Menupatch
 	
 /////=Others=/////
-        - [x] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
+    - [x] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
 	- [x] gta_sa.exe                      - Fixes Fix ENB Unable To Run
