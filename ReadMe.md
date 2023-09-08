@@ -6,7 +6,7 @@ Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer t
 [GTAForums](https://gtaforums .com/)
 
 
-/////=Cleo Plugin=/////
+## Cleo Plugin
 - [x] Cleo 4.4.4
 - [x] anticrasher037
 - [x] binthesky_by_DK
@@ -18,7 +18,7 @@ Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer t
 - [x] PerPixelLighting
 - [x] Transparent Menu
 
-/////=ASI Plugin=/////
+## ASI Plugin
 - [x] Cleo 4.4.4
 - [x] Audio
 - [x] DiscordRichPresence
@@ -38,6 +38,6 @@ Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer t
 - [x] ASI Loader
 - [x] Menupatch
 	
-/////=Others=/////
+## Others
 - [x] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
 - [x] gta_sa.exe                      - Fixes Fix ENB Unable To Run
