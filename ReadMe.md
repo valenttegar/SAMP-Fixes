@@ -7,8 +7,8 @@ https://gtaforums .com/
 
 
 /////=Cleo Plugin=/////
-    [+] Cleo 4.4.4
-    [+] anticrasher037
+        [+] Cleo 4.4.4
+        [+] anticrasher037
 	[+] binthesky_by_DK
 	[+] CLEO+
 	[+] Enhance ParticleTXD (Junior_Djjr)
@@ -19,8 +19,8 @@ https://gtaforums .com/
 	[+] Transparent Menu
 
 /////=ASI Plugin=/////
-    [+] Cleo 4.4.4
-    [+] Audio
+        [+] Cleo 4.4.4
+        [+] Audio
 	[+] DiscordRichPresence
 	[+] flickr
 	[+] GFXFix
@@ -36,8 +36,8 @@ https://gtaforums .com/
 	[+] SA-MultiSamplingFix
 	[+] SilentPatchSA
 	[+] ASI Loader
-    [+] Menupatch
+        [+] Menupatch
 	
 /////=Others=/////
-    [+] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
+        [+] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
 	[+] gta_sa.exe                      - Fixes Fix ENB Unable To Run
