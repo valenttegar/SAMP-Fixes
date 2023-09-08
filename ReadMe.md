@@ -19,25 +19,25 @@ Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer t
 - [x] Transparent Menu
 
 /////=ASI Plugin=/////
-    - [x] Cleo 4.4.4
-    - [x] Audio
-	- [x] DiscordRichPresence
-	- [x] flickr
-	- [x] GFXFix
-	- [x] III.VC.SA.LimitAdjuster
-	- [x] MixSets
-	- [x] noDEP
-	- [x] NormalMapFix
-	- [x] rundll32exefix
-	- [x] SA Widescreenfix
-	- [x] SADisplayResolutions
-	- [x] SAMPGraphicRestore
-	- [x] SAMPGrass
-	- [x] SA-MultiSamplingFix
-	- [x] SilentPatchSA
-	- [x] ASI Loader
-    - [x] Menupatch
+- [x] Cleo 4.4.4
+- [x] Audio
+- [x] DiscordRichPresence
+- [x] flickr
+- [x] GFXFix
+- [x] III.VC.SA.LimitAdjuster
+- [x] MixSets
+- [x] noDEP
+- [x] NormalMapFix
+- [x] rundll32exefix
+- [x] SA Widescreenfix
+- [x] SADisplayResolutions
+- [x] SAMPGraphicRestore
+- [x] SAMPGrass
+- [x] SA-MultiSamplingFix
+- [x] SilentPatchSA
+- [x] ASI Loader
+- [x] Menupatch
 	
 /////=Others=/////
-    - [x] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
-	- [x] gta_sa.exe                      - Fixes Fix ENB Unable To Run
+- [x] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
+- [x] gta_sa.exe                      - Fixes Fix ENB Unable To Run
