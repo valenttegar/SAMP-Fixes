@@ -1,43 +1,43 @@
 **Disclaimer all the mods here are not made by myself but I collected some plugins and But in the
 Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer this mod I collected from**
 
-https://mixmods.br/
-https://ugbase.eu/
-https://gtaforums .com/
+[MixMods](https://mixmods.br/)
+[Ugbase](https://ugbase.eu/)
+[GTA Forums](https://gtaforums .com/)
 
 
 /////=Cleo Plugin=/////
-        [+] Cleo 4.4.4
-        [+] anticrasher037
-	[+] binthesky_by_DK
-	[+] CLEO+
-	[+] Enhance ParticleTXD (Junior_Djjr)
-	[+] FPSUnlock
-	[+] NoMoreHaze
-	[+] particles
-	[+] PerPixelLighting
-	[+] Transparent Menu
+        - [x] Cleo 4.4.4
+        - [x] anticrasher037
+	- [x] binthesky_by_DK
+	- [x] CLEO+
+	- [x] Enhance ParticleTXD (Junior_Djjr)
+	- [x] FPSUnlock
+	- [x] NoMoreHaze
+	- [x] particles
+	- [x] PerPixelLighting
+	- [x] Transparent Menu
 
 /////=ASI Plugin=/////
-        [+] Cleo 4.4.4
-        [+] Audio
-	[+] DiscordRichPresence
-	[+] flickr
-	[+] GFXFix
-	[+] III.VC.SA.LimitAdjuster
-	[+] MixSets
-	[+] noDEP
-	[+] NormalMapFix
-	[+] rundll32exefix
-	[+] SA Widescreenfix
-	[+] SADisplayResolutions
-	[+] SAMPGraphicRestore
-	[+] SAMPGrass
-	[+] SA-MultiSamplingFix
-	[+] SilentPatchSA
-	[+] ASI Loader
-        [+] Menupatch
+        - [x] Cleo 4.4.4
+        - [x] Audio
+	- [x] DiscordRichPresence
+	- [x] flickr
+	- [x] GFXFix
+	- [x] III.VC.SA.LimitAdjuster
+	- [x] MixSets
+	- [x] noDEP
+	- [x] NormalMapFix
+	- [x] rundll32exefix
+	- [x] SA Widescreenfix
+	- [x] SADisplayResolutions
+	- [x] SAMPGraphicRestore
+	- [x] SAMPGrass
+	- [x] SA-MultiSamplingFix
+	- [x] SilentPatchSA
+	- [x] ASI Loader
+        - [x] Menupatch
 	
 /////=Others=/////
-        [+] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
-	[+] gta_sa.exe                      - Fixes Fix ENB Unable To Run
+        - [x] dinput8.dll (vorbisFile.dll)    - Ultimate ASI Loader
+	- [x] gta_sa.exe                      - Fixes Fix ENB Unable To Run
