@@ -1,3 +1,5 @@
+<h1 style="text-align: center">README.md</h1>
+
 | [User account](#user-account) | [Server invite](#server-invite) | [Bot account](#bot-account) |
 |:-:|:-:|
 | ![](https://dcbadge.vercel.app/api/shield/529322659146629131) | [![](https://dcbadge.vercel.app/api/server/VwbzHvjvwp)](https://discord.gg/VwbzHvjvwp) |
