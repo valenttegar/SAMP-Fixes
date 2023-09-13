@@ -1,6 +1,6 @@
 <h1 style="text-align: center">README.md</h1>
 
-A customizable badge that shows your Discord account, a server invite, or a bot account.
+Discord
 
 | [User account](#user-account) | [Server invite](#server-invite) | [Bot account](#bot-account) |
 |:-:|:-:|
