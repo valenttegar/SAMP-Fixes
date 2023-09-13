@@ -1,3 +1,5 @@
+### Dongo Pride&nbsp;&nbsp;&nbsp;[![](https://dcbadge.vercel.app/api/server/VwbzHvjvwp)](https://discord.gg/VwbzHvjvwp)
+
 **Disclaimer all the mods here are not made by myself but I collected some plugins and But in the
 Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer this mod I collected from**
 
