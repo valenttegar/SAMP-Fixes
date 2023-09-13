@@ -1,6 +1,6 @@
 <h1 style="text-align: center">README.md</h1>
 
-Discord
+===========================================
 
 ![](https://dcbadge.vercel.app/api/shield/529322659146629131) [![](https://dcbadge.vercel.app/api/server/VwbzHvjvwp)](https://discord.gg/VwbzHvjvwp)
 
