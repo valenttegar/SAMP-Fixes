@@ -2,9 +2,7 @@
 
 Discord
 
-| [User account](#user-account) | [Server invite](#server-invite) | [Bot account](#bot-account) |
-|:-:|:-:|
-| ![](https://dcbadge.vercel.app/api/shield/529322659146629131) | [![](https://dcbadge.vercel.app/api/server/VwbzHvjvwp)](https://discord.gg/VwbzHvjvwp) |
+![](https://dcbadge.vercel.app/api/shield/529322659146629131) [![](https://dcbadge.vercel.app/api/server/VwbzHvjvwp)](https://discord.gg/VwbzHvjvwp)
 
 **Disclaimer all the mods here are not made by myself but I collected some plugins and But in the
 Configuration file I've changed it a bit to improve GTA Sa Andreas Multiplayer this mod I collected from**
