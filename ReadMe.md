@@ -1,5 +1,7 @@
 <h1 style="text-align: center">README.md</h1>
 
+A customizable badge that shows your Discord account, a server invite, or a bot account.
+
 | [User account](#user-account) | [Server invite](#server-invite) | [Bot account](#bot-account) |
 |:-:|:-:|
 | ![](https://dcbadge.vercel.app/api/shield/529322659146629131) | [![](https://dcbadge.vercel.app/api/server/VwbzHvjvwp)](https://discord.gg/VwbzHvjvwp) |
